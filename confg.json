@@ -1,0 +1,16 @@
+{
+  "list": [
+    {
+      "ex_name": "west_manga.lua",
+      "ex_di": "westmanga",
+      "ex_ver": 1.0,
+      "ex_icon": "https://i3.wp.com/westmanga.info/wp-content/uploads/2021/01/cropped-Untitled-1a-300x300.png"
+    },
+    {
+      "ex_name": "komik_cast.lua",
+      "ex_di": "komikcast",
+      "ex_ver": 1.0,
+      "ex_icon": "https://komikcast.com/wp-content/uploads/2018/08/cropped-Kc-300x300.png"
+    }
+  ]
+}
