@@ -2,17 +2,24 @@
   "list": [
     {
       "ex_name": "West Manga",
-      "ex_file": "west_manga.lua",
+      "ex_file": "west_manga",
       "ex_dir": "westmanga",
       "ex_ver": 1.0,
       "ex_icon": "https://i3.wp.com/westmanga.info/wp-content/uploads/2021/01/cropped-Untitled-1a-300x300.png"
     },
     {
       "ex_name":"Komik Cast",
-      "ex_file": "komik_cast.lua",
+      "ex_file": "komik_cast",
       "ex_di": "komikcast",
       "ex_ver": 1.0,
-      "ex_icon": "https://komikcast.com/wp-content/uploads/2018/08/cropped-Kc-300x300.png"
+      "ex_icon": "https://komikcast.com/wp-content/uploads/2018/08/cropped-Kc-192x192.png"
+    },
+    {
+      "ex_name":"boosei",
+      "ex_file": "boosei",
+      "ex_di": "Boosei",
+      "ex_ver": 1.0,
+      "ex_icon": "https://i3.wp.com/boosei.com/wp-content/uploads/2020/08/cropped-Icon-1650-x-1650-192x192.png"
     }
   ]
 }
